@@ -1,0 +1,2 @@
+SELECT COUNT(people) AS count_records
+FROM people;
