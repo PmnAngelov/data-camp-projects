@@ -3,4 +3,4 @@ Assignments from DataCamp's Data Analyst with SQL course
 
 
 
-![postgresql-transparent-11549831769mskagmdcwn](https://user-images.githubusercontent.com/113591133/190930046-153bb683-b66b-4b40-a9e7-9bfcfc0f34b8.png)
+![imgbin-postgresql-logo-database-management-system-graphics-sql-logo-wdW2XbVhRWC8Z4u61x9W9LZhr](https://user-images.githubusercontent.com/113591133/190930065-159dc7f0-31a8-44f7-886d-ab13d54ae1a0.jpg)
