@@ -1,1 +1,4 @@
-# data-camp-sql![kisspng-logo-psql-brand-product-font-postgresql-wikipedia-games-warface-ru-5bf0dec1dd6ac5 5634737615425123219069](https://user-images.githubusercontent.com/113591133/190929956-9af7e75f-8caf-48ac-9ae4-516a62ebfd26.jpg)
+Assignments from DataCamp's Data Analyst with SQL course
+
+
+![postgresql-transparent-11549831769mskagmdcwn](https://user-images.githubusercontent.com/113591133/190929988-7259bee7-437a-4c17-b6ad-181485dcb0de.png)
