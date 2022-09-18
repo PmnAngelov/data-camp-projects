@@ -1,5 +1,6 @@
-<img align="center" src="![postgresql_logo](https://user-images.githubusercontent.com/113591133/190930202-31c9337d-d903-4065-8b67-579731bae285.png)" />
+<img align="center" 
 <br />
 <br />
-<h2 align="center"> Assignments from DataCamp's Data Analyst with SQL courseh </h2>
-<h2 align="center"> SQL Exercises </h2>
+<h2 align="center"> Assignments from DataCamp's Data Analyst with SQL course </h2>
+
+![postgresql_logo](https://user-images.githubusercontent.com/113591133/190930263-bb88ab6a-69e5-400a-ab52-5e84030b9289.png)
