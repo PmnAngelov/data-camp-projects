@@ -2,7 +2,7 @@
 
 
 <p align="left">
-<img align="center" src="https://github.com/PmnAngelov/datacamp-sql/blob/main/img/python_logo.png" />
+<img align="center" src="https://github.com/PmnAngelov/datacamp-sql/blob/main/img/python_logo.png" width="200" height="184" />
 </p>
 
 <p align="left">
@@ -10,5 +10,5 @@
 </p>
 
 <p align="left">
-<img align="center" src="https://github.com/PmnAngelov/datacamp-sql/blob/main/img/jupyter_logo.png" />
+<img align="center" src="https://github.com/PmnAngelov/datacamp-sql/blob/main/img/jupyter_logo.png" width="200" height="184" />
 </p>
