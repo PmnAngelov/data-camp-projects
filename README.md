@@ -11,7 +11,7 @@
 <p align="center">
 <img align="center" src="https://github.com/PmnAngelov/datacamp-data-analyst/blob/main/img/pandas.png" width="180" height="90" />
 <img align="center" src="https://github.com/PmnAngelov/datacamp-data-analyst/blob/main/img/numpy.png" width="180" height="90" />
-<img align="center" src="https://github.com/PmnAngelov/datacamp-data-analyst/blob/main/img/matplotllib.png" width="180" height="90" />
-<img align="center" src="https://github.com/PmnAngelov/datacamp-data-analyst/blob/main/img/seaborn.png" width="180" height="90" />
+<img align="center" src="https://github.com/PmnAngelov/datacamp-data-analyst/blob/main/img/matplotllib.png" width="170" height="90" />
+<img align="center" src="https://github.com/PmnAngelov/datacamp-data-analyst/blob/main/img/seaborn.png" width="160" height="90" />
 </p>
 
