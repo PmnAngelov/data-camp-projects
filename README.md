@@ -1,4 +1,4 @@
-Assignments from DataCamp's Data Analyst with SQL course 
+## Assignments from DataCamp's Data Analyst with SQL course 
 
 
 <p align="left">
