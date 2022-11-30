@@ -1,4 +1,4 @@
-## Projects from DataCamp's Data Analyst with SQL & Python course 
+## Projects from DataCamp's Data Analyst with SQL & Python courses
 
 
 <p align="left">
