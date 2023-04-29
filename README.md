@@ -15,3 +15,17 @@
 <img align="center" src="https://github.com/PmnAngelov/datacamp-data-analyst/blob/main/img/seaborn.png" width="180" height="70" />
 </p>
 
+### 1. **Python Projects**
+* Designing a Database
+* EDA of the Video Game Industry
+* Exploring The Bitcoin Cryptocurrency Market
+* Pyhton Programmer Course
+
+### 2. **SQL Projects** 
+* Analyzing International Debt Statistics
+* Analyzing The Games Industry
+* Data Analyst SQL Course
+
+### 3. **Excel Projects**
+* Analyzing a Company's Legal Department
+
